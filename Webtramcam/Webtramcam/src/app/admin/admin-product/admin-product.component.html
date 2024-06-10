@@ -1,0 +1,21 @@
+<div class="container-fluid g-0 p-2">
+    <div class="row g-0">
+      <!-- Lặp qua danh sách sản phẩm -->
+      <div class="col">
+        <div class="card" style="width: 18rem;">
+          <img src="../../assets/Images/{{product.productCategory.subCategory}}/{{product.id}}/1.jpg" class="card-img-top" alt="Product Image">
+          <div class="card-body">
+            <h5 class="card-title">{{product.title}}</h5>
+            <p class="card-text">{{product.description | slice:0:product.description.length/8}}</p>
+            <p class="card-text">Category: {{product.productCategory.category}}</p>
+            <p class="card-text">Offer: {{product.offer.title}}</p>
+            <p class="card-text">Price: {{product.price}}</p>
+            <p class="card-text">Quantity: {{product.quantity}}</p>
+            <button class="btn btn-outline-success">Edit</button>
+            <button class="btn btn-outline-danger" (click)="removeProduct(product.id)" routerLink="/admin">Delete</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  

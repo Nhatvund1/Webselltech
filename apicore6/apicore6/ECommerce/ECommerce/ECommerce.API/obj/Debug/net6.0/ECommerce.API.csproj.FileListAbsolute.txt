@@ -1,0 +1,174 @@
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\appsettings.Development.json
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\appsettings.json
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.exe
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.deps.json
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.runtimeconfig.json
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.pdb
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.AssemblyReference.cache
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.AssemblyInfoInputs.cache
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.AssemblyInfo.cs
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.CoreCompileInputs.cache
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\scopedcss\bundle\ECommerce.API.styles.css
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.CopyComplete
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\refint\ECommerce.API.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.pdb
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.genruntimeconfig.cache
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ref\ECommerce.API.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\appsettings.Development.json
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\appsettings.json
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.exe
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.deps.json
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.runtimeconfig.json
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.pdb
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.AssemblyReference.cache
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.AssemblyInfoInputs.cache
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.AssemblyInfo.cs
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.CoreCompileInputs.cache
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\scopedcss\bundle\ECommerce.API.styles.css
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.CopyComplete
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\refint\ECommerce.API.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.pdb
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.genruntimeconfig.cache
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ref\ECommerce.API.dll
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\appsettings.Development.json
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\appsettings.json
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.exe
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.deps.json
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.runtimeconfig.json
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.dll
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.pdb
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.AssemblyReference.cache
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.AssemblyInfoInputs.cache
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.AssemblyInfo.cs
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.CoreCompileInputs.cache
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.MvcApplicationPartsAssemblyInfo.cs
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.MvcApplicationPartsAssemblyInfo.cache
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets\msbuild.ECommerce.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets\msbuild.build.ECommerce.API.props
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ECommerce.API.props
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ECommerce.API.props
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\scopedcss\bundle\ECommerce.API.styles.css
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.CopyComplete
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.dll
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\refint\ECommerce.API.dll
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.pdb
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.genruntimeconfig.cache
+E:\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ref\ECommerce.API.dll
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\appsettings.Development.json
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\appsettings.json
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.exe
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.deps.json
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.runtimeconfig.json
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.dll
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.pdb
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.AssemblyReference.cache
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.AssemblyInfoInputs.cache
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.AssemblyInfo.cs
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.CoreCompileInputs.cache
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.MvcApplicationPartsAssemblyInfo.cs
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.MvcApplicationPartsAssemblyInfo.cache
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets\msbuild.ECommerce.API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets\msbuild.build.ECommerce.API.props
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ECommerce.API.props
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ECommerce.API.props
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets.pack.json
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets.build.json
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets.development.json
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\scopedcss\bundle\ECommerce.API.styles.css
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.CopyComplete
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.dll
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\refint\ECommerce.API.dll
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.pdb
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.genruntimeconfig.cache
+F:\LẬP TRÌNH\WEB\apicore6\apicore6\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ref\ECommerce.API.dll

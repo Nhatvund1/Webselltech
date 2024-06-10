@@ -1,0 +1,103 @@
+<div class="container-fluid g-0">
+
+    <!-- MAIN CONTENT -->
+    <main class="black-borde">
+  
+      <!-- TOOBAR TO ADD AND SEARCH EMPLOYEES -->
+      <div class="toolbar">
+  
+        <div class="add-employee">
+          <button type="button" class="btn btn-outline-success btn-lg" data-bs-toggle="modal"
+            data-bs-target="#exampleModal" #addEmployeeButton>Add Products</button>
+        </div>
+  
+        <div class="search-employees">
+          <input type="search" class="form-control" placeholder="Search Products"
+            >
+        </div>
+  
+      </div>
+  
+      <!-- AREA TO DISPLAY ALL THE EMPLOYEES -->
+      <div class="employees"> 
+        <div class="row mt-4" >
+          <div class="col" *ngFor="let product of products">
+            <app-admin-product [product]="product"></app-admin-product>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+  
+  <!-- Modal -->
+  <!-- Modal -->
+<div class="modal fade" id="exampleModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Enter Product Information</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+      <div class="modal-body">
+        <form [formGroup]="productForm" (submit)="addProduct()">
+          <div class="row">
+            <div class="col">
+              <input type="text" class="form-control" placeholder="Title" formControlName="title">
+            </div>
+          </div>
+          <div class="row mt-5">
+            <div class="col form-heading">
+              <h6 class="text-secondary fst-italic">Description</h6>
+              <textarea class="w-75 p-2" placeholder="Description" formControlName="description"></textarea>
+            </div>
+          </div>
+          <div class="row mt-3">
+            <div class="col">
+              <select class="form-select" formControlName="CategoryId" (change)="onCategoryChange($event)">
+                <option value="default" selected disabled>Chọn danh mục</option>
+                <option *ngFor="let category of navigationList" [value]="category.id">
+                 {{ category.subCategory }}
+                </option>
+              </select>
+            </div>
+          </div>
+          <div class="row mt-3">
+            <div class="col">
+              <select class="form-select" formControlName="offerId">
+                <option value="default" selected disabled>Select Offer</option>
+                <option *ngFor="let offer of offerList" [value]="offer.id">
+                  {{ offer.title }} ({{ offer.discount }}%)
+                </option>
+              </select>
+            </div>
+          </div>
+          <div class="row mt-3">
+            <div class="col">
+              <label for="profile" class="form-label">Profile Image</label>
+              <input type="file" class="form-control" id="profile" #fileInput>
+            </div>
+          </div>
+          <div class="row mt-5">
+            <div class="col form-heading">
+              <h6 class="text-secondary fst-italic">Price</h6>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+              <input type="text" class="form-control" placeholder="Price" formControlName="price">
+            </div>
+          </div>
+          <div class="row mt-3">
+            <div class="col">
+              <input type="text" class="form-control" placeholder="Quantity" formControlName="quantity">
+            </div>
+          </div>
+                <div class="modal-footer">
+                  <button type="submit" class="btn btn-primary" data-bs-dismiss="modal" routerLink="/admin">Insert</button>
+                </div>
+        </form>
+      </div>
+
+    </div>
+  </div>
+</div>
